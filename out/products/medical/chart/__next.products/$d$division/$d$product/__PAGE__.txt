@@ -1,0 +1,1034 @@
+1:"$Sreact.fragment"
+2:I[44250,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],""]
+3:I[63246,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"Image"]
+4:I[70717,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"default"]
+5:I[90960,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"default"]
+1c:I[6396,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"style":{"position":"sticky","top":0,"zIndex":100,"display":"flex","alignItems":"center","justifyContent":"space-between","gap":24,"padding":"16px clamp(20px, 5vw, 72px)","borderBottom":"1px solid rgba(148,163,184,.18)","background":"rgba(2,6,23,.88)","backdropFilter":"blur(18px)"},"children":[["$","$L2",null,{"href":"/","style":{"display":"flex","alignItems":"center","gap":12,"color":"#ffffff","textDecoration":"none"},"children":[["$","$L3",null,{"src":"/auris-logo.png","alt":"AURIS Technologies LLC","width":42,"height":42,"priority":true}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":16,"fontWeight":950,"letterSpacing":0.3},"children":"AURIS Technologies LLC"}],["$","div",null,{"style":{"marginTop":2,"color":"#94a3b8","fontSize":12},"children":"Technology Built to Help People"}]]}]]}],["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":18,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","style":{"color":"#cbd5e1","textDecoration":"none","fontSize":14,"fontWeight":800},"children":"Ecosystem"}],["$","$L2",null,{"href":"/about","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"About"}],["$","$L2",null,{"href":"/portfolio","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"Portfolio"}],["$","$L2",null,{"href":"/contact","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"Contact"}]]}]]}],["$","main",null,{"style":{"minHeight":"100vh","position":"relative","overflow":"hidden","color":"#ffffff","background":"\n            radial-gradient(\n              circle at 82% 12%,\n              #dc2626AA 0%,\n              #dc262655 18%,\n              transparent 42%\n            ),\n\n            radial-gradient(\n              circle at 12% 42%,\n              #dc262666 0%,\n              transparent 36%\n            ),\n\n            radial-gradient(\n              circle at 50% 110%,\n              #dc262633 0%,\n              transparent 55%\n            ),\n\n            linear-gradient(\n              135deg,\n              #dc262622 0%,\n              rgba(15, 23, 42, 0.96) 35%,\n              rgba(2, 6, 23, 1) 100%\n            )\n          ","transition":"background 0.8s ease","boxShadow":"\n            inset 0 0 180px #dc262622,\n            inset 0 0 340px rgba(0, 0, 0, 0.45)\n          "},"children":[["$","div",null,{"style":{"position":"relative","zIndex":100,"width":"min(1200px, calc(100% - 40px))","margin":"0 auto","paddingTop":24,"display":"flex","alignItems":"center","justifyContent":"space-between","gap":16,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/?division=medical","style":{"display":"inline-flex","alignItems":"center","gap":10,"padding":"11px 18px","borderRadius":999,"border":"1px solid #dc262666","background":"rgba(2, 6, 23, 0.78)","color":"#ffffff","textDecoration":"none","fontSize":12,"fontWeight":800,"letterSpacing":1.1,"backdropFilter":"blur(12px)","boxShadow":"0 0 24px #dc262622"},"children":[["$","span",null,{"style":{"color":"#dc2626","fontSize":18,"lineHeight":1},"children":"←"}],"Back to"," ","Medical"," ","Products"]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":10,"padding":"9px 16px","borderRadius":999,"border":"1px solid rgba(103, 232, 249, 0.18)","background":"rgba(2, 6, 23, 0.55)","backdropFilter":"blur(12px)","boxShadow":"0 0 24px rgba(34, 211, 238, 0.08)"},"children":[["$","span",null,{"style":{"width":7,"height":7,"borderRadius":"50%","background":"#67e8f9","boxShadow":"0 0 12px rgba(103, 232, 249, 0.95)"}}],["$","span",null,{"style":{"color":"rgba(207, 250, 254, 0.72)","fontSize":9,"fontWeight":800,"letterSpacing":2.2},"children":"AURA CONNECTED"}]]}]]}],["$","$L4",null,{"accent":"#dc2626","variant":"medical","product":"chart"}],["$","$L5",null,{"children":["$","section",null,{"style":{"minHeight":"calc(100vh - 80px)","display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(320px, 1fr))","alignItems":"center","gap":48,"width":"min(1240px, calc(100% - 40px))","margin":"0 auto","padding":"72px 0"},"children":[["$","div",null,{"children":[["$","$L2",null,{"href":"/","style":{"display":"inline-block","marginBottom":24,"color":"#dc2626","textDecoration":"none","fontWeight":900},"children":"← Return to the AURIS Ecosystem"}],["$","div",null,{"style":{"color":"#dc2626","fontSize":13,"fontWeight":950,"letterSpacing":3,"textTransform":"uppercase"},"children":["AURIS ","Medical"]}],["$","h1",null,{"style":{"margin":"12px 0 0","fontSize":"clamp(64px, 11vw, 128px)","lineHeight":0.88,"letterSpacing":"-0.055em"},"children":"CHART"}],"$L6","$L7"]}],"$L8"]}]}],"$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"],["$L10","$L11","$L12"],"$L13"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WjnjZI86TncTDoRUiNHmu"}
+6:["$","p",null,{"style":{"marginTop":26,"maxWidth":680,"color":"#cbd5e1","fontSize":"clamp(20px, 2.4vw, 30px)","lineHeight":1.4},"children":"CHART within the AURIS Medical ecosystem"}]
+7:["$","div",null,{"style":{"marginTop":30,"display":"flex","gap":12,"flexWrap":"wrap"},"children":[["$","a",null,{"href":"#overview","style":{"padding":"13px 19px","borderRadius":999,"border":"1px solid #dc2626","background":"#dc262624","color":"#ffffff","textDecoration":"none","fontWeight":900,"boxShadow":"0 0 28px #dc262618"},"children":"Explore Technology"}],["$","$L2",null,{"href":"/contact?division=medical&product=chart","style":{"padding":"13px 19px","borderRadius":999,"border":"1px solid rgba(148,163,184,.35)","background":"rgba(15,23,42,.72)","color":"#cbd5e1","textDecoration":"none","fontWeight":900},"children":"Contact AURIS"}]]}]
+8:["$","div",null,{"style":{"height":500,"minHeight":500,"position":"relative","overflow":"hidden","borderRadius":30,"border":"1px solid #dc262655","background":"radial-gradient(\n            circle at center,\n            #dc262622,\n            rgba(15, 23, 42, 0.82) 68%\n          )","boxShadow":"0 0 80px #dc262620"},"children":[["$","div",null,{"className":"chart-hero","children":[["$","div",null,{"className":"chart-ambient-glow"}],["$","div",null,{"className":"chart-grid"}],["$","div",null,{"className":"chart-folder chart-folder-back","children":[["$","div",null,{"className":"chart-folder-tab","children":"IMAGING"}],["$","div",null,{"className":"chart-imaging","children":[["$","div",null,{"className":"chart-imaging-ring chart-ring-one"}],["$","div",null,{"className":"chart-imaging-ring chart-ring-two"}],["$","div",null,{"className":"chart-imaging-core"}],["$","div",null,{"className":"chart-crosshair chart-crosshair-horizontal"}],["$","div",null,{"className":"chart-crosshair chart-crosshair-vertical"}]]}],["$","div",null,{"className":"chart-placeholder-lines","children":[["$","span",null,{}],["$","span",null,{}],["$","span",null,{}]]}]]}],["$","div",null,{"className":"chart-folder chart-folder-middle","children":[["$","div",null,{"className":"chart-folder-tab","children":"MEDICATIONS"}],["$","div",null,{"className":"chart-medications","children":[["$","div",null,{"className":"chart-medication","children":[["$","span",null,{"className":"chart-pill"}],["$","div",null,{"children":[["$","strong",null,{"children":"Medication 01"}],["$","small",null,{"children":"08:00 • Administered"}]]}]]}],["$","div",null,{"className":"chart-medication","children":[["$","span",null,{"className":"chart-pill"}],["$","div",null,{"children":[["$","strong",null,{"children":"Medication 02"}],["$","small",null,{"children":"12:00 • Scheduled"}]]}]]}],["$","div",null,{"className":"chart-medication","children":[["$","span",null,{"className":"chart-pill"}],["$","div",null,{"children":[["$","strong",null,{"children":"Medication 03"}],["$","small",null,{"children":"18:00 • Scheduled"}]]}]]}]]}]]}],["$","div",null,{"className":"chart-record","children":[["$","div",null,{"className":"chart-shine"}],["$","div",null,{"className":"chart-scanner"}],["$","div",null,{"className":"chart-record-header","children":[["$","div",null,{"children":[["$","span",null,{"className":"chart-eyebrow","children":"AURIS MEDICAL RECORD SYSTEM"}],["$","h2",null,{"children":"PATIENT CHART"}]]}],["$","div",null,{"className":"chart-sync","children":[["$","span",null,{"className":"chart-sync-dot"}],["$","div",null,{"className":"chart-sync-words","children":[["$","span",null,{"children":"SYNCING"}],["$","span",null,{"children":"VERIFYING"}],["$","span",null,{"children":"ENCRYPTED"}],["$","span",null,{"children":"SYNCHRONIZED"}]]}]]}]]}],["$","div",null,{"className":"chart-patient","children":[["$","div",null,{"className":"chart-avatar","children":[["$","div",null,{"className":"chart-avatar-ring"}],["$","div",null,{"className":"chart-avatar-head"}],["$","div",null,{"className":"chart-avatar-body"}],["$","span",null,{"className":"chart-avatar-status"}]]}],["$","div",null,{"className":"chart-patient-title","children":[["$","span",null,{"children":"PATIENT PROFILE"}],["$","strong",null,{"children":"AUTHORIZED CLINICAL RECORD"}],["$","div",null,{"className":"chart-name-lines","children":[["$","span",null,{}],["$","span",null,{}]]}]]}],["$","div",null,{"className":"chart-secure","children":[["$","svg",null,{"viewBox":"0 0 24 24","aria-hidden":"true","children":[["$","path",null,{"d":"M12 3L19 6V11C19 15.4 16.1 19.4 12 21C7.9 19.4 5 15.4 5 11V6L12 3Z"}],["$","path",null,{"d":"M9.5 12L11.2 13.7L14.8 10"}]]}],["$","span",null,{"children":"SECURE"}]]}]]}],["$","div",null,{"className":"chart-details","children":[["$","div",null,{"children":[["$","span",null,{"children":"PATIENT ID"}],["$","strong",null,{"children":"AUR-MED-2048"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"ROOM"}],["$","strong",null,{"children":"ICU-12"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"STATUS"}],["$","strong",null,{"children":"ACTIVE"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"UPDATED"}],["$","strong",null,{"children":"08:42:16"}]]}]]}],["$","div",null,{"className":"chart-panels","children":[["$","div",null,{"className":"chart-panel chart-vitals-panel","children":[["$","div",null,{"className":"chart-panel-heading","children":[["$","span",null,{"children":"LIVE VITALS"}],["$","small",null,{"children":"MONITORING"}]]}],["$","div",null,{"className":"chart-vitals","children":[["$","div",null,{"children":[["$","span",null,{"children":"HEART RATE"}],["$","p",null,{"children":[["$","strong",null,{"children":"72"}],["$","small",null,{"children":"BPM"}]]}]]}],["$","div",null,{"children":[["$","span",null,{"children":"OXYGEN"}],["$","p",null,{"children":[["$","strong",null,{"children":"97"}],"$L14"]}]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]}],"$L19","$L1a","$L1b"]}],false]}]
+9:["$","$L5",null,{"delay":0.1,"children":["$","section",null,{"id":"overview","style":{"width":"min(1120px, calc(100% - 40px))","margin":"0 auto","padding":"96px 0","scrollMarginTop":100},"children":[["$","div",null,{"style":{"color":"#dc2626","fontSize":12,"fontWeight":900,"letterSpacing":3,"textTransform":"uppercase"},"children":"Product Overview"}],["$","h2",null,{"style":{"margin":"12px 0 0","maxWidth":850,"color":"#ffffff","fontSize":"clamp(38px, 6vw, 68px)","lineHeight":1.02},"children":["What is ","CHART","?"]}],["$","p",null,{"style":{"margin":"28px 0 0","maxWidth":900,"color":"#bdc7d6","fontSize":"clamp(19px, 2.2vw, 26px)","lineHeight":1.65},"children":"CHART is an AURIS Medical concept being developed as part of our mission to create technology that helps people through thoughtful, connected, and intelligent systems."}]]}]}]
+a:["$","$L5",null,{"delay":0.2,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","padding":"90px 0"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontSize":10,"fontWeight":900,"letterSpacing":3,"marginBottom":12},"children":["AURIS /"," ","MEDICAL"]}],["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":20},"children":"The Challenge"}],["$","p",null,{"style":{"color":"#cbd5e1","fontSize":20,"lineHeight":1.8,"maxWidth":900},"children":"CHART is being explored to address real-world challenges within ai healthcare & clinical intelligence and provide users with a clearer, safer, or more efficient experience."}]]}]}]
+b:["$","$L5",null,{"delay":0.3,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","paddingBottom":90},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":20},"children":"Our Solution"}],["$","p",null,{"style":{"color":"#cbd5e1","fontSize":20,"lineHeight":1.8,"maxWidth":900},"children":"AURIS is designing CHART as a modular technology solution that can grow through research, prototyping, user feedback, and future integrations across the AURIS ecosystem."}]]}]}]
+c:["$","$L5",null,{"delay":0.4,"children":["$","section",null,{"style":{"width":"min(1200px, calc(100% - 40px))","margin":"0 auto","paddingBottom":100},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":32},"children":"Capabilities"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(260px, 1fr))","gap":24},"children":[["$","div","Human-Centered Design",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Human-Centered Design"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Designed around practical user needs, accessibility, clarity, and ease of use."}]]}],["$","div","Connected Intelligence",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Connected Intelligence"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Planned to connect with related AURIS products, services, data, and intelligent systems."}]]}],["$","div","Scalable Architecture",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Scalable Architecture"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Structured to evolve from an early concept into a larger and more capable technology platform."}]]}],["$","div","Future Integrations",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Future Integrations"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Designed with room for APIs, sensors, analytics, automation, AI, and connected-device support."}]]}]]}]]}]}]
+d:["$","$L5",null,{"delay":0.5,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","paddingBottom":80},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":36},"children":"Roadmap"}],["$","div",null,{"style":{"display":"grid","gap":24},"children":[["$","div","Phase 01-Concept Definition",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 01"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Concept Definition"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Define the users, purpose, core problem, requirements, and initial product experience."}]]}],["$","div","Phase 02-Prototype Development",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 02"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Prototype Development"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Build and evaluate an interactive software, hardware, or connected-system prototype."}]]}],["$","div","Phase 03-Testing and Expansion",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 03"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Testing and Expansion"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Gather feedback, improve the design, add integrations, and prepare the concept for future development."}]]}]]}]]}]}]
+e:["$","$L5",null,{"delay":0.6,"children":["$","section",null,{"style":{"position":"relative","zIndex":20,"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","padding":"20px 0 120px"},"children":["$","div",null,{"style":{"padding":"34px 28px","borderRadius":24,"border":"1px solid rgba(103, 232, 249, 0.16)","background":"linear-gradient(135deg, rgba(8,145,178,0.08), rgba(15,23,42,0.72))","backdropFilter":"blur(16px)","boxShadow":"0 0 50px rgba(34,211,238,0.06)","textAlign":"center"},"children":[["$","div",null,{"style":{"color":"#67e8f9","fontSize":10,"fontWeight":900,"letterSpacing":3.2,"marginBottom":12},"children":"POWERED BY AURA"}],["$","h2",null,{"style":{"margin":"0 0 12px","color":"#ffffff","fontSize":28},"children":"Part of the AURIS Ecosystem"}],["$","p",null,{"style":{"maxWidth":700,"margin":"0 auto 24px","color":"#94a3b8","lineHeight":1.7},"children":"AURA is the ambient, context-aware intelligence layer connecting experiences across the AURIS ecosystem."}],["$","$L2",null,{"href":"/?division=medical","style":{"display":"inline-flex","alignItems":"center","justifyContent":"center","gap":10,"padding":"12px 22px","borderRadius":999,"border":"1px solid #dc262666","background":"#dc262614","color":"#ffffff","textDecoration":"none","fontSize":12,"fontWeight":900,"letterSpacing":1.2,"boxShadow":"0 0 24px #dc262618"},"children":["← Explore"," ","Medical"," ","Products"]}]]}]}]}]
+f:["$","footer",null,{"style":{"borderTop":"1px solid rgba(148,163,184,.18)","background":"#020617","color":"#cbd5e1","padding":"34px clamp(20px, 5vw, 72px)"},"children":["$","div",null,{"style":{"width":"100%","maxWidth":1240,"margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","gap":24,"flexWrap":"wrap"},"children":[["$","div",null,{"children":[["$","div",null,{"style":{"color":"#ffffff","fontWeight":950,"fontSize":16},"children":"AURIS Technologies LLC"}],["$","div",null,{"style":{"marginTop":6,"color":"#94a3b8","fontSize":13},"children":"Technology Built to Help People"}],["$","div",null,{"style":{"marginTop":10,"color":"#64748b","fontSize":12},"children":["© ",2026," AURIS Technologies LLC. All rights reserved."]}]]}],["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":18,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","style":{"color":"#94a3b8","textDecoration":"none","fontSize":13,"fontWeight":800},"children":"Ecosystem"}],["$","$L2",null,{"href":"/about","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"About"}],["$","$L2",null,{"href":"/portfolio","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"Portfolio"}],["$","$L2",null,{"href":"/contact","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"Contact"}]]}]]}]}]
+10:["$","script","script-0",{"src":"/_next/static/chunks/19ihl6vq1sjee.js","async":true}]
+11:["$","script","script-1",{"src":"/_next/static/chunks/0xwfhmjwvuq5y.js","async":true}]
+12:["$","script","script-2",{"src":"/_next/static/chunks/16oo40k_uiou7.js","async":true}]
+13:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+14:["$","small",null,{"children":"%"}]
+15:["$","div",null,{"children":[["$","span",null,{"children":"TEMP"}],["$","p",null,{"children":[["$","strong",null,{"children":"98.6"}],["$","small",null,{"children":"°F"}]]}]]}]
+16:["$","div",null,{"className":"chart-panel chart-labs-panel","children":[["$","div",null,{"className":"chart-panel-heading","children":[["$","span",null,{"children":"LABS"}],["$","small",null,{"children":"VERIFIED"}]]}],["$","div",null,{"className":"chart-labs","children":[["$","div",null,{"children":[["$","span",null,{"children":"WBC"}],["$","strong",null,{"children":"7.4"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"HGB"}],["$","strong",null,{"children":"14.1"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"GLU"}],["$","strong",null,{"children":"92"}]]}]]}]]}]
+17:["$","div",null,{"className":"chart-ecg-panel","children":[["$","div",null,{"className":"chart-panel-heading","children":[["$","span",null,{"children":"CLINICAL TELEMETRY"}],["$","small",null,{"children":"LIVE"}]]}],["$","svg",null,{"className":"chart-ecg","viewBox":"0 0 700 90","preserveAspectRatio":"none","aria-hidden":"true","children":[["$","path",null,{"className":"chart-ecg-shadow","d":"   M0 47   L88 47   L110 47   L130 34   L148 62   L170 13   L194 73   L220 47   L320 47   L345 47   L365 34   L383 62   L405 13   L429 73   L455 47   L555 47   L580 47   L600 34   L618 62   L640 13   L664 73   L700 47   "}],["$","path",null,{"className":"chart-ecg-line","d":"   M0 47   L88 47   L110 47   L130 34   L148 62   L170 13   L194 73   L220 47   L320 47   L345 47   L365 34   L383 62   L405 13   L429 73   L455 47   L555 47   L580 47   L600 34   L618 62   L640 13   L664 73   L700 47   "}]]}]]}]
+18:["$","div",null,{"className":"chart-footer","children":[["$","span",null,{"children":"DATABASE NODE: MED-01"}],["$","span",null,{"children":"HIPAA ENCRYPTED"}]]}]
+19:["$","div",null,{"className":"chart-floating-card chart-floating-lab","children":[["$","span",null,{"className":"chart-floating-icon","children":"＋"}],["$","div",null,{"children":[["$","small",null,{"children":"LAB ANALYSIS"}],["$","strong",null,{"children":"COMPLETE"}]]}]]}]
+1a:["$","div",null,{"className":"chart-floating-card chart-floating-cloud","children":[["$","span",null,{"className":"chart-floating-icon","children":"☁"}],["$","div",null,{"children":[["$","small",null,{"children":"CLOUD SYNC"}],["$","strong",null,{"children":"ONLINE"}]]}]]}]
+1f:T5c3b,
+        .chart-hero {
+          position: absolute;
+          inset: 0;
+          overflow: hidden;
+          isolation: isolate;
+          background:
+            radial-gradient(
+              circle at 65% 28%,
+              #dc262624,
+              transparent 35%
+            ),
+            radial-gradient(
+              circle at 25% 80%,
+              #dc262616,
+              transparent 38%
+            ),
+            linear-gradient(
+              145deg,
+              rgba(15, 23, 42, 0.82),
+              rgba(2, 6, 23, 0.98)
+            );
+        }
+
+        .chart-ambient-glow {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          width: 440px;
+          height: 440px;
+          border-radius: 50%;
+          background: #dc26261f;
+          filter: blur(85px);
+          transform: translate(-50%, -50%);
+          animation: chartAmbientPulse 7s ease-in-out infinite;
+        }
+
+        .chart-grid {
+          position: absolute;
+          inset: -60px;
+          opacity: 0.16;
+          background-image:
+            linear-gradient(
+              #dc262620 1px,
+              transparent 1px
+            ),
+            linear-gradient(
+              90deg,
+              #dc262620 1px,
+              transparent 1px
+            );
+          background-size: 42px 42px;
+          mask-image: radial-gradient(
+            circle at center,
+            black,
+            transparent 78%
+          );
+          animation: chartGridTravel 24s linear infinite;
+        }
+
+        .chart-folder,
+        .chart-record {
+          position: absolute;
+          border: 1px solid #dc262645;
+          background:
+            linear-gradient(
+              145deg,
+              rgba(15, 23, 42, 0.91),
+              rgba(2, 6, 23, 0.97)
+            );
+          box-shadow:
+            0 24px 75px rgba(0, 0, 0, 0.52),
+            inset 0 0 24px rgba(255, 255, 255, 0.025);
+          backdrop-filter: blur(15px);
+        }
+
+        .chart-folder {
+          width: 54%;
+          height: 55%;
+          border-radius: 18px;
+          overflow: hidden;
+        }
+
+        .chart-folder-back {
+          right: 5%;
+          top: 7%;
+          opacity: 0.53;
+          transform: rotate(7deg);
+          animation: chartFolderBack 11s ease-in-out infinite;
+        }
+
+        .chart-folder-middle {
+          left: 5%;
+          bottom: 5%;
+          opacity: 0.63;
+          transform: rotate(-7deg);
+          animation: chartFolderMiddle 13s ease-in-out infinite;
+        }
+
+        .chart-folder-tab {
+          padding: 14px 17px;
+          border-bottom: 1px solid #dc262628;
+          color: rgba(255, 255, 255, 0.56);
+          font-size: 7px;
+          font-weight: 900;
+          letter-spacing: 1.5px;
+        }
+
+        .chart-imaging {
+          position: relative;
+          width: 122px;
+          height: 122px;
+          margin: 27px auto 18px;
+          overflow: hidden;
+          border: 1px solid #dc262635;
+          border-radius: 14px;
+          background:
+            radial-gradient(
+              circle,
+              rgba(255, 255, 255, 0.08),
+              transparent 60%
+            ),
+            rgba(2, 6, 23, 0.6);
+        }
+
+        .chart-imaging-ring {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          border: 1px solid #dc262670;
+          border-radius: 47% 53% 44% 56%;
+        }
+
+        .chart-ring-one {
+          width: 84px;
+          height: 96px;
+          transform: translate(-50%, -50%);
+          animation: chartSpin 13s linear infinite;
+        }
+
+        .chart-ring-two {
+          width: 58px;
+          height: 68px;
+          transform: translate(-50%, -50%);
+          animation: chartSpinReverse 9s linear infinite;
+        }
+
+        .chart-imaging-core {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          width: 31px;
+          height: 42px;
+          border-radius: 48%;
+          background: #dc262632;
+          box-shadow:
+            0 0 22px #dc262645,
+            inset 0 0 12px #dc262650;
+          transform: translate(-50%, -50%);
+          animation: chartCorePulse 3s ease-in-out infinite;
+        }
+
+        .chart-crosshair {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          background: #dc262636;
+          transform: translate(-50%, -50%);
+        }
+
+        .chart-crosshair-horizontal {
+          width: 100%;
+          height: 1px;
+        }
+
+        .chart-crosshair-vertical {
+          width: 1px;
+          height: 100%;
+        }
+
+        .chart-placeholder-lines {
+          display: flex;
+          flex-direction: column;
+          gap: 7px;
+          padding: 0 24px;
+        }
+
+        .chart-placeholder-lines span {
+          height: 3px;
+          border-radius: 999px;
+          background: rgba(255, 255, 255, 0.07);
+        }
+
+        .chart-placeholder-lines span:nth-child(2) {
+          width: 70%;
+        }
+
+        .chart-placeholder-lines span:nth-child(3) {
+          width: 84%;
+        }
+
+        .chart-medications {
+          display: flex;
+          flex-direction: column;
+          gap: 9px;
+          padding: 24px;
+        }
+
+        .chart-medication {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          padding: 8px;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 8px;
+          background: rgba(255, 255, 255, 0.02);
+        }
+
+        .chart-medication div {
+          display: flex;
+          flex-direction: column;
+          gap: 3px;
+        }
+
+        .chart-medication strong {
+          color: rgba(255, 255, 255, 0.62);
+          font-size: 7px;
+        }
+
+        .chart-medication small {
+          color: rgba(255, 255, 255, 0.27);
+          font-size: 6px;
+        }
+
+        .chart-pill {
+          position: relative;
+          width: 25px;
+          height: 10px;
+          flex-shrink: 0;
+          border: 1px solid #dc262675;
+          border-radius: 999px;
+          transform: rotate(-28deg);
+        }
+
+        .chart-pill::after {
+          position: absolute;
+          left: 50%;
+          top: -1px;
+          width: 1px;
+          height: 10px;
+          content: "";
+          background: #dc262675;
+        }
+
+        .chart-record {
+          z-index: 4;
+          left: 50%;
+          top: 50%;
+          width: 79%;
+          min-height: 414px;
+          padding: 19px;
+          overflow: hidden;
+          border-color: #dc262675;
+          border-radius: 21px;
+          box-shadow:
+            0 30px 90px rgba(0, 0, 0, 0.62),
+            0 0 35px #dc262624,
+            inset 0 0 28px rgba(255, 255, 255, 0.03);
+          transform: translate(-50%, -50%);
+          animation: chartRecordFloat 8s ease-in-out infinite;
+        }
+
+        .chart-shine {
+          position: absolute;
+          left: -45%;
+          top: -35%;
+          width: 34%;
+          height: 170%;
+          opacity: 0;
+          background: linear-gradient(
+            90deg,
+            transparent,
+            rgba(255, 255, 255, 0.16),
+            transparent
+          );
+          transform: rotate(18deg);
+          animation: chartShine 9s ease-in-out infinite;
+        }
+
+        .chart-scanner {
+          position: absolute;
+          z-index: 10;
+          left: 0;
+          top: -16%;
+          width: 100%;
+          height: 14%;
+          opacity: 0;
+          border-bottom: 1px solid #dc262680;
+          background: linear-gradient(
+            to bottom,
+            transparent,
+            #dc262620,
+            #dc262655,
+            transparent
+          );
+          animation: chartScanner 9s ease-in-out infinite;
+        }
+
+        .chart-record-header {
+          position: relative;
+          z-index: 2;
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          padding-bottom: 14px;
+          border-bottom: 1px solid #dc26262c;
+        }
+
+        .chart-eyebrow {
+          display: block;
+          color: rgba(255, 255, 255, 0.36);
+          font-size: 6px;
+          font-weight: 900;
+          letter-spacing: 1.45px;
+        }
+
+        .chart-record-header h2 {
+          margin: 6px 0 0;
+          color: #ffffff;
+          font-size: 15px;
+          font-weight: 950;
+          letter-spacing: 2px;
+        }
+
+        .chart-sync {
+          display: flex;
+          align-items: center;
+          gap: 7px;
+          padding-top: 4px;
+        }
+
+        .chart-sync-dot {
+          width: 6px;
+          height: 6px;
+          flex-shrink: 0;
+          border-radius: 50%;
+          background: #dc2626;
+          box-shadow: 0 0 11px #dc2626;
+          animation: chartSyncDot 2s ease-in-out infinite;
+        }
+
+        .chart-sync-words {
+          position: relative;
+          width: 82px;
+          height: 10px;
+          overflow: hidden;
+        }
+
+        .chart-sync-words span {
+          position: absolute;
+          inset: 0;
+          opacity: 0;
+          color: #dc2626;
+          font-size: 6px;
+          font-weight: 900;
+          letter-spacing: 1px;
+          text-align: right;
+          animation: chartSyncCycle 12s linear infinite;
+        }
+
+        .chart-sync-words span:nth-child(2) {
+          animation-delay: 3s;
+        }
+
+        .chart-sync-words span:nth-child(3) {
+          animation-delay: 6s;
+        }
+
+        .chart-sync-words span:nth-child(4) {
+          animation-delay: 9s;
+        }
+
+        .chart-patient {
+          position: relative;
+          z-index: 2;
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          padding: 15px 0 13px;
+        }
+
+        .chart-avatar {
+          position: relative;
+          width: 48px;
+          height: 48px;
+          flex-shrink: 0;
+          overflow: hidden;
+          border: 1px solid #dc262662;
+          border-radius: 12px;
+          background: #dc26260c;
+        }
+
+        .chart-avatar-ring {
+          position: absolute;
+          inset: 6px;
+          border: 1px dashed #dc262655;
+          border-radius: 50%;
+          animation: chartSpin 12s linear infinite;
+        }
+
+        .chart-avatar-head {
+          position: absolute;
+          left: 50%;
+          top: 10px;
+          width: 13px;
+          height: 13px;
+          border: 1.5px solid rgba(255, 255, 255, 0.72);
+          border-radius: 50%;
+          transform: translateX(-50%);
+        }
+
+        .chart-avatar-body {
+          position: absolute;
+          left: 50%;
+          bottom: 6px;
+          width: 27px;
+          height: 17px;
+          border: 1.5px solid rgba(255, 255, 255, 0.72);
+          border-bottom: 0;
+          border-radius: 16px 16px 0 0;
+          transform: translateX(-50%);
+        }
+
+        .chart-avatar-status {
+          position: absolute;
+          right: 5px;
+          bottom: 5px;
+          width: 6px;
+          height: 6px;
+          border: 2px solid #07111f;
+          border-radius: 50%;
+          background: #dc2626;
+          box-shadow: 0 0 7px #dc2626;
+        }
+
+        .chart-patient-title {
+          display: flex;
+          min-width: 0;
+          flex: 1;
+          flex-direction: column;
+          gap: 4px;
+        }
+
+        .chart-patient-title > span {
+          color: #dc2626;
+          font-size: 6px;
+          font-weight: 900;
+          letter-spacing: 1.2px;
+        }
+
+        .chart-patient-title > strong {
+          color: rgba(255, 255, 255, 0.72);
+          font-size: 7px;
+          letter-spacing: 1px;
+        }
+
+        .chart-name-lines {
+          display: flex;
+          margin-top: 3px;
+          flex-direction: column;
+          gap: 4px;
+        }
+
+        .chart-name-lines span {
+          width: 72%;
+          height: 3px;
+          border-radius: 999px;
+          background: rgba(255, 255, 255, 0.07);
+        }
+
+        .chart-name-lines span:first-child {
+          width: 48%;
+          background: #dc262635;
+        }
+
+        .chart-secure {
+          display: flex;
+          width: 42px;
+          height: 42px;
+          flex-shrink: 0;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 2px;
+          border: 1px solid #dc262640;
+          border-radius: 10px;
+          background: #dc26260d;
+        }
+
+        .chart-secure svg {
+          width: 18px;
+          height: 18px;
+          fill: none;
+          stroke: #dc2626;
+          stroke-width: 1.6;
+        }
+
+        .chart-secure span {
+          color: rgba(255, 255, 255, 0.38);
+          font-size: 4px;
+          font-weight: 900;
+          letter-spacing: 0.7px;
+        }
+
+        .chart-details {
+          position: relative;
+          z-index: 2;
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 6px;
+        }
+
+        .chart-details > div {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 7px 9px;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 7px;
+          background: rgba(255, 255, 255, 0.018);
+        }
+
+        .chart-details span {
+          color: rgba(255, 255, 255, 0.27);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 0.8px;
+        }
+
+        .chart-details strong {
+          color: rgba(255, 255, 255, 0.74);
+          font-family: "Courier New", monospace;
+          font-size: 6px;
+        }
+
+        .chart-panels {
+          position: relative;
+          z-index: 2;
+          display: grid;
+          grid-template-columns: 1.35fr 0.65fr;
+          gap: 7px;
+          margin-top: 8px;
+        }
+
+        .chart-panel {
+          padding: 9px;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 9px;
+          background: rgba(2, 6, 23, 0.42);
+        }
+
+        .chart-panel-heading {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          color: rgba(255, 255, 255, 0.34);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 1px;
+        }
+
+        .chart-panel-heading small {
+          color: #dc2626;
+          font-size: 4px;
+          letter-spacing: 0.8px;
+        }
+
+        .chart-vitals {
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 5px;
+          margin-top: 8px;
+        }
+
+        .chart-vitals > div {
+          padding: 7px;
+          border: 1px solid #dc26261e;
+          border-radius: 7px;
+          background: #dc26260a;
+        }
+
+        .chart-vitals > div > span {
+          display: block;
+          color: rgba(255, 255, 255, 0.26);
+          font-size: 4px;
+          font-weight: 900;
+          letter-spacing: 0.6px;
+        }
+
+        .chart-vitals p {
+          margin: 4px 0 0;
+        }
+
+        .chart-vitals strong {
+          color: #ffffff;
+          font-size: 14px;
+          line-height: 1;
+        }
+
+        .chart-vitals small {
+          margin-left: 2px;
+          color: #dc2626;
+          font-size: 4px;
+          font-weight: 900;
+        }
+
+        .chart-labs {
+          display: flex;
+          margin-top: 7px;
+          flex-direction: column;
+          gap: 4px;
+        }
+
+        .chart-labs > div {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 4px 6px;
+          border-radius: 5px;
+          background: rgba(255, 255, 255, 0.022);
+        }
+
+        .chart-labs span {
+          color: rgba(255, 255, 255, 0.27);
+          font-size: 4px;
+          font-weight: 900;
+        }
+
+        .chart-labs strong {
+          color: rgba(255, 255, 255, 0.74);
+          font-family: "Courier New", monospace;
+          font-size: 6px;
+        }
+
+        .chart-ecg-panel {
+          position: relative;
+          z-index: 2;
+          margin-top: 7px;
+          padding: 8px 9px 0;
+          overflow: hidden;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 9px;
+          background: rgba(2, 6, 23, 0.45);
+        }
+
+        .chart-ecg {
+          width: 100%;
+          height: 45px;
+          overflow: visible;
+        }
+
+        .chart-ecg-shadow,
+        .chart-ecg-line {
+          fill: none;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+
+        .chart-ecg-shadow {
+          stroke: #dc262645;
+          stroke-width: 7;
+          filter: blur(4px);
+        }
+
+        .chart-ecg-line {
+          stroke: #dc2626;
+          stroke-width: 2;
+          stroke-dasharray: 165 535;
+          filter: drop-shadow(0 0 4px #dc2626);
+          animation: chartEcgTravel 4s linear infinite;
+        }
+
+        .chart-footer {
+          position: relative;
+          z-index: 2;
+          display: flex;
+          justify-content: space-between;
+          padding-top: 6px;
+          color: rgba(255, 255, 255, 0.2);
+          font-family: "Courier New", monospace;
+          font-size: 4px;
+          letter-spacing: 0.7px;
+        }
+
+        .chart-floating-card {
+          position: absolute;
+          z-index: 7;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          min-width: 116px;
+          padding: 8px 10px;
+          border: 1px solid #dc262642;
+          border-radius: 10px;
+          background: rgba(5, 11, 25, 0.88);
+          box-shadow:
+            0 14px 34px rgba(0, 0, 0, 0.45),
+            0 0 16px #dc262618;
+          backdrop-filter: blur(12px);
+        }
+
+        .chart-floating-card div {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .chart-floating-card small {
+          color: rgba(255, 255, 255, 0.3);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 0.8px;
+        }
+
+        .chart-floating-card strong {
+          color: #ffffff;
+          font-size: 6px;
+          letter-spacing: 0.8px;
+        }
+
+        .chart-floating-icon {
+          display: grid;
+          width: 24px;
+          height: 24px;
+          flex-shrink: 0;
+          place-items: center;
+          border: 1px solid #dc262645;
+          border-radius: 7px;
+          background: #dc26260d;
+          color: #dc2626;
+          font-size: 12px;
+        }
+
+        .chart-floating-lab {
+          left: 2%;
+          top: 9%;
+          animation: chartFloatingLab 8s ease-in-out infinite;
+        }
+
+        .chart-floating-cloud {
+          right: 2%;
+          bottom: 8%;
+          animation: chartFloatingCloud 10s ease-in-out infinite;
+        }
+
+        @keyframes chartAmbientPulse {
+          0%,
+          100% {
+            opacity: 0.55;
+            transform: translate(-50%, -50%) scale(0.92);
+          }
+
+          50% {
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(1.08);
+          }
+        }
+
+        @keyframes chartGridTravel {
+          from {
+            transform: translate(0, 0);
+          }
+
+          to {
+            transform: translate(42px, 42px);
+          }
+        }
+
+        @keyframes chartFolderBack {
+          0%,
+          100% {
+            transform: translate(0, 0) rotate(7deg);
+          }
+
+          50% {
+            transform: translate(9px, -8px) rotate(9deg);
+          }
+        }
+
+        @keyframes chartFolderMiddle {
+          0%,
+          100% {
+            transform: translate(0, 0) rotate(-7deg);
+          }
+
+          50% {
+            transform: translate(-10px, 9px) rotate(-9deg);
+          }
+        }
+
+        @keyframes chartRecordFloat {
+          0%,
+          100% {
+            transform: translate(-50%, -50%) translateY(0);
+          }
+
+          50% {
+            transform: translate(-50%, -50%) translateY(-8px);
+          }
+        }
+
+        @keyframes chartSpin {
+          from {
+            transform: translate(-50%, -50%) rotate(0deg);
+          }
+
+          to {
+            transform: translate(-50%, -50%) rotate(360deg);
+          }
+        }
+
+        @keyframes chartSpinReverse {
+          from {
+            transform: translate(-50%, -50%) rotate(360deg);
+          }
+
+          to {
+            transform: translate(-50%, -50%) rotate(0deg);
+          }
+        }
+
+        @keyframes chartCorePulse {
+          0%,
+          100% {
+            opacity: 0.45;
+            transform: translate(-50%, -50%) scale(0.9);
+          }
+
+          50% {
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(1.1);
+          }
+        }
+
+        @keyframes chartShine {
+          0%,
+          68% {
+            left: -45%;
+            opacity: 0;
+          }
+
+          74% {
+            opacity: 0.17;
+          }
+
+          92% {
+            left: 125%;
+            opacity: 0;
+          }
+
+          100% {
+            left: 125%;
+            opacity: 0;
+          }
+        }
+
+        @keyframes chartScanner {
+          0%,
+          66% {
+            top: -16%;
+            opacity: 0;
+          }
+
+          72% {
+            opacity: 0.6;
+          }
+
+          94% {
+            top: 105%;
+            opacity: 0.1;
+          }
+
+          100% {
+            top: 105%;
+            opacity: 0;
+          }
+        }
+
+        @keyframes chartSyncDot {
+          0%,
+          100% {
+            opacity: 0.45;
+            transform: scale(0.8);
+          }
+
+          50% {
+            opacity: 1;
+            transform: scale(1.15);
+          }
+        }
+
+        @keyframes chartSyncCycle {
+          0% {
+            opacity: 0;
+            transform: translateY(5px);
+          }
+
+          5%,
+          20% {
+            opacity: 1;
+            transform: translateY(0);
+          }
+
+          25%,
+          100% {
+            opacity: 0;
+            transform: translateY(-5px);
+          }
+        }
+
+        @keyframes chartEcgTravel {
+          from {
+            stroke-dashoffset: 700;
+          }
+
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+
+        @keyframes chartFloatingLab {
+          0%,
+          100% {
+            transform: translateY(0) rotate(-1deg);
+          }
+
+          50% {
+            transform: translateY(-11px) rotate(1deg);
+          }
+        }
+
+        @keyframes chartFloatingCloud {
+          0%,
+          100% {
+            transform: translateY(0) rotate(1deg);
+          }
+
+          50% {
+            transform: translateY(10px) rotate(-1deg);
+          }
+        }
+
+        @media (max-width: 650px) {
+          .chart-record {
+            width: 88%;
+            min-height: 390px;
+            padding: 15px;
+          }
+
+          .chart-folder {
+            width: 59%;
+          }
+
+          .chart-labs-panel {
+            display: none;
+          }
+
+          .chart-panels {
+            grid-template-columns: 1fr;
+          }
+
+          .chart-floating-card {
+            transform: scale(0.82);
+          }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .chart-ambient-glow,
+          .chart-grid,
+          .chart-folder,
+          .chart-record,
+          .chart-imaging-ring,
+          .chart-imaging-core,
+          .chart-shine,
+          .chart-scanner,
+          .chart-sync-dot,
+          .chart-sync-words span,
+          .chart-avatar-ring,
+          .chart-ecg-line,
+          .chart-floating-card {
+            animation: none;
+          }
+
+          .chart-sync-words span {
+            display: none;
+          }
+
+          .chart-sync-words span:last-child {
+            display: block;
+            opacity: 1;
+            transform: none;
+          }
+        }
+      1b:["$","style",null,{"children":"$1f"}]
+1e:null

@@ -1,0 +1,540 @@
+1:"$Sreact.fragment"
+2:I[44250,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],""]
+3:I[63246,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"Image"]
+4:I[70717,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"default"]
+5:I[90960,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js","/_next/static/chunks/19ihl6vq1sjee.js","/_next/static/chunks/0xwfhmjwvuq5y.js","/_next/static/chunks/16oo40k_uiou7.js"],"default"]
+16:I[6396,["/_next/static/chunks/2k7ate_t21bvt.js","/_next/static/chunks/3c3_ayn1vxsxn.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"style":{"position":"sticky","top":0,"zIndex":100,"display":"flex","alignItems":"center","justifyContent":"space-between","gap":24,"padding":"16px clamp(20px, 5vw, 72px)","borderBottom":"1px solid rgba(148,163,184,.18)","background":"rgba(2,6,23,.88)","backdropFilter":"blur(18px)"},"children":[["$","$L2",null,{"href":"/","style":{"display":"flex","alignItems":"center","gap":12,"color":"#ffffff","textDecoration":"none"},"children":[["$","$L3",null,{"src":"/auris-logo.png","alt":"AURIS Technologies LLC","width":42,"height":42,"priority":true}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":16,"fontWeight":950,"letterSpacing":0.3},"children":"AURIS Technologies LLC"}],["$","div",null,{"style":{"marginTop":2,"color":"#94a3b8","fontSize":12},"children":"Technology Built to Help People"}]]}]]}],["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":18,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","style":{"color":"#cbd5e1","textDecoration":"none","fontSize":14,"fontWeight":800},"children":"Ecosystem"}],["$","$L2",null,{"href":"/about","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"About"}],["$","$L2",null,{"href":"/portfolio","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"Portfolio"}],["$","$L2",null,{"href":"/contact","style":"$0:rsc:props:children:0:0:props:children:1:props:children:0:props:style","children":"Contact"}]]}]]}],["$","main",null,{"style":{"minHeight":"100vh","position":"relative","overflow":"hidden","color":"#ffffff","background":"\n            radial-gradient(\n              circle at 82% 12%,\n              #dc2626AA 0%,\n              #dc262655 18%,\n              transparent 42%\n            ),\n\n            radial-gradient(\n              circle at 12% 42%,\n              #dc262666 0%,\n              transparent 36%\n            ),\n\n            radial-gradient(\n              circle at 50% 110%,\n              #dc262633 0%,\n              transparent 55%\n            ),\n\n            linear-gradient(\n              135deg,\n              #dc262622 0%,\n              rgba(15, 23, 42, 0.96) 35%,\n              rgba(2, 6, 23, 1) 100%\n            )\n          ","transition":"background 0.8s ease","boxShadow":"\n            inset 0 0 180px #dc262622,\n            inset 0 0 340px rgba(0, 0, 0, 0.45)\n          "},"children":[["$","div",null,{"style":{"position":"relative","zIndex":100,"width":"min(1200px, calc(100% - 40px))","margin":"0 auto","paddingTop":24,"display":"flex","alignItems":"center","justifyContent":"space-between","gap":16,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/?division=medical","style":{"display":"inline-flex","alignItems":"center","gap":10,"padding":"11px 18px","borderRadius":999,"border":"1px solid #dc262666","background":"rgba(2, 6, 23, 0.78)","color":"#ffffff","textDecoration":"none","fontSize":12,"fontWeight":800,"letterSpacing":1.1,"backdropFilter":"blur(12px)","boxShadow":"0 0 24px #dc262622"},"children":[["$","span",null,{"style":{"color":"#dc2626","fontSize":18,"lineHeight":1},"children":"←"}],"Back to"," ","Medical"," ","Products"]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":10,"padding":"9px 16px","borderRadius":999,"border":"1px solid rgba(103, 232, 249, 0.18)","background":"rgba(2, 6, 23, 0.55)","backdropFilter":"blur(12px)","boxShadow":"0 0 24px rgba(34, 211, 238, 0.08)"},"children":[["$","span",null,{"style":{"width":7,"height":7,"borderRadius":"50%","background":"#67e8f9","boxShadow":"0 0 12px rgba(103, 232, 249, 0.95)"}}],["$","span",null,{"style":{"color":"rgba(207, 250, 254, 0.72)","fontSize":9,"fontWeight":800,"letterSpacing":2.2},"children":"AURA CONNECTED"}]]}]]}],["$","$L4",null,{"accent":"#dc2626","variant":"medical","product":"pulse"}],["$","$L5",null,{"children":["$","section",null,{"style":{"minHeight":"calc(100vh - 80px)","display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(320px, 1fr))","alignItems":"center","gap":48,"width":"min(1240px, calc(100% - 40px))","margin":"0 auto","padding":"72px 0"},"children":[["$","div",null,{"children":[["$","$L2",null,{"href":"/","style":{"display":"inline-block","marginBottom":24,"color":"#dc2626","textDecoration":"none","fontWeight":900},"children":"← Return to the AURIS Ecosystem"}],["$","div",null,{"style":{"color":"#dc2626","fontSize":13,"fontWeight":950,"letterSpacing":3,"textTransform":"uppercase"},"children":["AURIS ","Medical"]}],["$","h1",null,{"style":{"margin":"12px 0 0","fontSize":"clamp(64px, 11vw, 128px)","lineHeight":0.88,"letterSpacing":"-0.055em"},"children":"PULSE"}],"$L6","$L7"]}],"$L8"]}]}],"$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"],["$L10","$L11","$L12"],"$L13"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WjnjZI86TncTDoRUiNHmu"}
+6:["$","p",null,{"style":{"marginTop":26,"maxWidth":680,"color":"#cbd5e1","fontSize":"clamp(20px, 2.4vw, 30px)","lineHeight":1.4},"children":"PULSE within the AURIS Medical ecosystem"}]
+7:["$","div",null,{"style":{"marginTop":30,"display":"flex","gap":12,"flexWrap":"wrap"},"children":[["$","a",null,{"href":"#overview","style":{"padding":"13px 19px","borderRadius":999,"border":"1px solid #dc2626","background":"#dc262624","color":"#ffffff","textDecoration":"none","fontWeight":900,"boxShadow":"0 0 28px #dc262618"},"children":"Explore Technology"}],["$","$L2",null,{"href":"/contact?division=medical&product=pulse","style":{"padding":"13px 19px","borderRadius":999,"border":"1px solid rgba(148,163,184,.35)","background":"rgba(15,23,42,.72)","color":"#cbd5e1","textDecoration":"none","fontWeight":900},"children":"Contact AURIS"}]]}]
+14:T3117,
+        .pulse-hero {
+          position: absolute;
+          inset: 0;
+          overflow: hidden;
+          isolation: isolate;
+          background:
+            radial-gradient(
+              circle at 65% 30%,
+              #dc262624,
+              transparent 36%
+            ),
+            radial-gradient(
+              circle at 20% 85%,
+              #dc262616,
+              transparent 38%
+            ),
+            linear-gradient(
+              145deg,
+              rgba(15, 23, 42, 0.82),
+              rgba(2, 6, 23, 0.98)
+            );
+        }
+
+        .pulse-ambient-glow {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          width: 430px;
+          height: 430px;
+          border-radius: 50%;
+          background: #dc262620;
+          filter: blur(85px);
+          transform: translate(-50%, -50%);
+          animation: pulseAmbient 6s ease-in-out infinite;
+        }
+
+        .pulse-grid {
+          position: absolute;
+          inset: -60px;
+          opacity: 0.15;
+          background-image:
+            linear-gradient(#dc262620 1px, transparent 1px),
+            linear-gradient(90deg, #dc262620 1px, transparent 1px);
+          background-size: 40px 40px;
+          mask-image: radial-gradient(
+            circle at center,
+            black,
+            transparent 80%
+          );
+          animation: pulseGridMove 22s linear infinite;
+        }
+
+        .pulse-monitor {
+          position: absolute;
+          z-index: 4;
+          left: 50%;
+          top: 50%;
+          width: 79%;
+          min-height: 405px;
+          padding: 19px;
+          overflow: hidden;
+          border: 1px solid #dc262675;
+          border-radius: 21px;
+          background:
+            linear-gradient(
+              145deg,
+              rgba(15, 23, 42, 0.92),
+              rgba(2, 6, 23, 0.98)
+            );
+          box-shadow:
+            0 30px 90px rgba(0, 0, 0, 0.62),
+            0 0 35px #dc262624,
+            inset 0 0 28px rgba(255, 255, 255, 0.03);
+          backdrop-filter: blur(15px);
+          transform: translate(-50%, -50%);
+          animation: pulseMonitorFloat 8s ease-in-out infinite;
+        }
+
+        .pulse-monitor-header {
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          padding-bottom: 14px;
+          border-bottom: 1px solid #dc26262c;
+        }
+
+        .pulse-monitor-header > div:first-child {
+          display: flex;
+          flex-direction: column;
+          gap: 5px;
+        }
+
+        .pulse-monitor-header span {
+          color: rgba(255, 255, 255, 0.38);
+          font-size: 6px;
+          font-weight: 900;
+          letter-spacing: 1.4px;
+        }
+
+        .pulse-monitor-header strong {
+          color: #ffffff;
+          font-size: 14px;
+          font-weight: 950;
+          letter-spacing: 1.6px;
+        }
+
+        .pulse-live {
+          display: flex;
+          align-items: center;
+          gap: 6px;
+          color: #dc2626;
+          font-size: 6px;
+          font-weight: 900;
+          letter-spacing: 1px;
+        }
+
+        .pulse-live span {
+          width: 7px;
+          height: 7px;
+          border-radius: 50%;
+          background: #dc2626;
+          box-shadow: 0 0 11px #dc2626;
+          animation: pulseLiveDot 1.2s ease-in-out infinite;
+        }
+
+        .pulse-patient-row {
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 7px;
+          margin-top: 12px;
+        }
+
+        .pulse-patient-row > div {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+          padding: 8px;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 7px;
+          background: rgba(255, 255, 255, 0.018);
+        }
+
+        .pulse-patient-row span {
+          color: rgba(255, 255, 255, 0.28);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 0.8px;
+        }
+
+        .pulse-patient-row strong {
+          color: rgba(255, 255, 255, 0.75);
+          font-family: "Courier New", monospace;
+          font-size: 6px;
+        }
+
+        .pulse-patient-row .pulse-stable {
+          color: #dc2626;
+        }
+
+        .pulse-ecg-panel {
+          margin-top: 10px;
+          padding: 9px 10px 0;
+          overflow: hidden;
+          border: 1px solid rgba(255, 255, 255, 0.05);
+          border-radius: 10px;
+          background: rgba(2, 6, 23, 0.5);
+        }
+
+        .pulse-panel-heading {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          color: rgba(255, 255, 255, 0.35);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 1px;
+        }
+
+        .pulse-panel-heading small {
+          color: #dc2626;
+          font-size: 4px;
+          letter-spacing: 0.8px;
+        }
+
+        .pulse-ecg {
+          width: 100%;
+          height: 100px;
+          overflow: visible;
+        }
+
+        .pulse-ecg-shadow,
+        .pulse-ecg-line {
+          fill: none;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+
+        .pulse-ecg-shadow {
+          stroke: #dc262648;
+          stroke-width: 8;
+          filter: blur(5px);
+        }
+
+        .pulse-ecg-line {
+          stroke: #dc2626;
+          stroke-width: 2.2;
+          stroke-dasharray: 165 535;
+          filter: drop-shadow(0 0 5px #dc2626);
+          animation: pulseEcgTravel 4s linear infinite;
+        }
+
+        .pulse-main-vital {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin-top: 9px;
+          padding: 11px 13px;
+          border: 1px solid #dc262624;
+          border-radius: 10px;
+          background: #dc26260a;
+        }
+
+        .pulse-main-vital > div:first-child > span {
+          color: rgba(255, 255, 255, 0.32);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 1px;
+        }
+
+        .pulse-heart-rate {
+          display: flex;
+          align-items: flex-end;
+          margin-top: 4px;
+        }
+
+        .pulse-heart-rate strong {
+          color: #dc2626;
+          font-size: 38px;
+          line-height: 0.9;
+          text-shadow: 0 0 16px #dc262655;
+          animation: pulseHeartRate 1.2s ease-in-out infinite;
+        }
+
+        .pulse-heart-rate small {
+          margin: 0 0 4px 4px;
+          color: rgba(255, 255, 255, 0.4);
+          font-size: 5px;
+          font-weight: 900;
+        }
+
+        .pulse-heart-icon {
+          display: grid;
+          width: 45px;
+          height: 45px;
+          place-items: center;
+          border: 1px solid #dc262655;
+          border-radius: 50%;
+          background: #dc26260f;
+          color: #dc2626;
+          font-size: 22px;
+          box-shadow: 0 0 20px #dc262620;
+          animation: pulseHeartBeat 1.2s ease-in-out infinite;
+        }
+
+        .pulse-vitals {
+          display: grid;
+          grid-template-columns: repeat(4, minmax(0, 1fr));
+          gap: 6px;
+          margin-top: 8px;
+        }
+
+        .pulse-vitals > div {
+          padding: 8px;
+          border: 1px solid rgba(255, 255, 255, 0.045);
+          border-radius: 8px;
+          background: rgba(2, 6, 23, 0.45);
+        }
+
+        .pulse-vitals > div > span {
+          display: block;
+          color: rgba(255, 255, 255, 0.27);
+          font-size: 4px;
+          font-weight: 900;
+          letter-spacing: 0.7px;
+        }
+
+        .pulse-vitals p {
+          margin: 5px 0 0;
+        }
+
+        .pulse-vitals strong {
+          color: #ffffff;
+          font-size: 16px;
+          line-height: 1;
+        }
+
+        .pulse-vitals small {
+          margin-left: 2px;
+          color: #dc2626;
+          font-size: 4px;
+          font-weight: 900;
+        }
+
+        .pulse-footer {
+          display: flex;
+          justify-content: space-between;
+          margin-top: 9px;
+          padding-top: 7px;
+          border-top: 1px solid rgba(255, 255, 255, 0.045);
+          color: rgba(255, 255, 255, 0.2);
+          font-family: "Courier New", monospace;
+          font-size: 4px;
+          letter-spacing: 0.7px;
+        }
+
+        .pulse-floating-card {
+          position: absolute;
+          z-index: 7;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          min-width: 116px;
+          padding: 8px 10px;
+          border: 1px solid #dc262642;
+          border-radius: 10px;
+          background: rgba(5, 11, 25, 0.88);
+          box-shadow:
+            0 14px 34px rgba(0, 0, 0, 0.45),
+            0 0 16px #dc262618;
+          backdrop-filter: blur(12px);
+        }
+
+        .pulse-floating-card div {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .pulse-floating-card small {
+          color: rgba(255, 255, 255, 0.3);
+          font-size: 5px;
+          font-weight: 900;
+          letter-spacing: 0.8px;
+        }
+
+        .pulse-floating-card strong {
+          color: #ffffff;
+          font-size: 6px;
+          letter-spacing: 0.8px;
+        }
+
+        .pulse-floating-icon {
+          display: grid;
+          width: 24px;
+          height: 24px;
+          flex-shrink: 0;
+          place-items: center;
+          border: 1px solid #dc262645;
+          border-radius: 7px;
+          background: #dc26260d;
+          color: #dc2626;
+          font-size: 12px;
+        }
+
+        .pulse-floating-sensor {
+          left: 2%;
+          top: 9%;
+          animation: pulseFloatingSensor 8s ease-in-out infinite;
+        }
+
+        .pulse-floating-station {
+          right: 2%;
+          bottom: 8%;
+          animation: pulseFloatingStation 10s ease-in-out infinite;
+        }
+
+        @keyframes pulseAmbient {
+          0%,
+          100% {
+            opacity: 0.55;
+            transform: translate(-50%, -50%) scale(0.92);
+          }
+
+          50% {
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(1.08);
+          }
+        }
+
+        @keyframes pulseGridMove {
+          from {
+            transform: translate(0, 0);
+          }
+
+          to {
+            transform: translate(40px, 40px);
+          }
+        }
+
+        @keyframes pulseMonitorFloat {
+          0%,
+          100% {
+            transform: translate(-50%, -50%) translateY(0);
+          }
+
+          50% {
+            transform: translate(-50%, -50%) translateY(-8px);
+          }
+        }
+
+        @keyframes pulseLiveDot {
+          0%,
+          100% {
+            opacity: 0.45;
+            transform: scale(0.8);
+          }
+
+          50% {
+            opacity: 1;
+            transform: scale(1.18);
+          }
+        }
+
+        @keyframes pulseEcgTravel {
+          from {
+            stroke-dashoffset: 700;
+          }
+
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+
+        @keyframes pulseHeartRate {
+          0%,
+          60%,
+          100% {
+            transform: scale(1);
+          }
+
+          68% {
+            transform: scale(1.08);
+          }
+
+          82% {
+            transform: scale(1.035);
+          }
+        }
+
+        @keyframes pulseHeartBeat {
+          0%,
+          60%,
+          100% {
+            transform: scale(1);
+          }
+
+          68% {
+            transform: scale(1.14);
+          }
+
+          82% {
+            transform: scale(1.06);
+          }
+        }
+
+        @keyframes pulseFloatingSensor {
+          0%,
+          100% {
+            transform: translateY(0) rotate(-1deg);
+          }
+
+          50% {
+            transform: translateY(-11px) rotate(1deg);
+          }
+        }
+
+        @keyframes pulseFloatingStation {
+          0%,
+          100% {
+            transform: translateY(0) rotate(1deg);
+          }
+
+          50% {
+            transform: translateY(10px) rotate(-1deg);
+          }
+        }
+
+        @media (max-width: 650px) {
+          .pulse-monitor {
+            width: 88%;
+            min-height: 390px;
+            padding: 15px;
+          }
+
+          .pulse-vitals {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+          }
+
+          .pulse-floating-card {
+            transform: scale(0.82);
+          }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .pulse-ambient-glow,
+          .pulse-grid,
+          .pulse-monitor,
+          .pulse-live span,
+          .pulse-ecg-line,
+          .pulse-heart-rate strong,
+          .pulse-heart-icon,
+          .pulse-floating-card {
+            animation: none;
+          }
+        }
+      8:["$","div",null,{"style":{"height":500,"minHeight":500,"position":"relative","overflow":"hidden","borderRadius":30,"border":"1px solid #dc262655","background":"radial-gradient(\n            circle at center,\n            #dc262622,\n            rgba(15, 23, 42, 0.82) 68%\n          )","boxShadow":"0 0 80px #dc262620"},"children":[["$","div",null,{"className":"pulse-hero","children":[["$","div",null,{"className":"pulse-ambient-glow"}],["$","div",null,{"className":"pulse-grid"}],["$","div",null,{"className":"pulse-monitor","children":[["$","div",null,{"className":"pulse-monitor-header","children":[["$","div",null,{"children":[["$","span",null,{"children":"AURIS PULSE"}],["$","strong",null,{"children":"LIVE PATIENT TELEMETRY"}]]}],["$","div",null,{"className":"pulse-live","children":[["$","span",null,{}],"LIVE"]}]]}],["$","div",null,{"className":"pulse-patient-row","children":[["$","div",null,{"children":[["$","span",null,{"children":"PATIENT"}],["$","strong",null,{"children":"AUR-MED-2048"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"BED"}],["$","strong",null,{"children":"ICU-12"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"STATUS"}],["$","strong",null,{"className":"pulse-stable","children":"STABLE"}]]}]]}],["$","div",null,{"className":"pulse-ecg-panel","children":[["$","div",null,{"className":"pulse-panel-heading","children":[["$","span",null,{"children":"ECG LEAD II"}],["$","small",null,{"children":"25 MM/S"}]]}],["$","svg",null,{"className":"pulse-ecg","viewBox":"0 0 700 150","preserveAspectRatio":"none","aria-hidden":"true","children":[["$","path",null,{"className":"pulse-ecg-shadow","d":"   M0 82   L75 82   L110 82   L132 63   L151 102   L180 20   L210 132   L242 82   L330 82   L365 82   L387 63   L406 102   L435 20   L465 132   L497 82   L585 82   L620 82   L642 63   L661 102   L690 20   L700 55   "}],["$","path",null,{"className":"pulse-ecg-line","d":"   M0 82   L75 82   L110 82   L132 63   L151 102   L180 20   L210 132   L242 82   L330 82   L365 82   L387 63   L406 102   L435 20   L465 132   L497 82   L585 82   L620 82   L642 63   L661 102   L690 20   L700 55   "}]]}]]}],["$","div",null,{"className":"pulse-main-vital","children":[["$","div",null,{"children":[["$","span",null,{"children":"HEART RATE"}],["$","div",null,{"className":"pulse-heart-rate","children":[["$","strong",null,{"children":"72"}],["$","small",null,{"children":"BPM"}]]}]]}],["$","div",null,{"className":"pulse-heart-icon","children":"♥"}]]}],["$","div",null,{"className":"pulse-vitals","children":[["$","div",null,{"children":[["$","span",null,{"children":"SpO₂"}],["$","p",null,{"children":[["$","strong",null,{"children":"98"}],["$","small",null,{"children":"%"}]]}]]}],["$","div",null,{"children":[["$","span",null,{"children":"PRESSURE"}],["$","p",null,{"children":[["$","strong",null,{"children":"118"}],["$","small",null,{"children":"/76"}]]}]]}],["$","div",null,{"children":[["$","span",null,{"children":"RESP"}],["$","p",null,{"children":[["$","strong",null,{"children":"16"}],["$","small",null,{"children":"/MIN"}]]}]]}],["$","div",null,{"children":[["$","span",null,{"children":"TEMP"}],["$","p",null,{"children":[["$","strong",null,{"children":"98.6"}],["$","small",null,{"children":"°F"}]]}]]}]]}],["$","div",null,{"className":"pulse-footer","children":[["$","span",null,{"children":"CENTRAL STATION CONNECTED"}],["$","span",null,{"children":"ENCRYPTED TELEMETRY"}]]}]]}],["$","div",null,{"className":"pulse-floating-card pulse-floating-sensor","children":[["$","span",null,{"className":"pulse-floating-icon","children":"⌁"}],["$","div",null,{"children":[["$","small",null,{"children":"WIRELESS SENSOR"}],["$","strong",null,{"children":"ACTIVE"}]]}]]}],["$","div",null,{"className":"pulse-floating-card pulse-floating-station","children":[["$","span",null,{"className":"pulse-floating-icon","children":"⬢"}],["$","div",null,{"children":[["$","small",null,{"children":"CENTRAL STATION"}],["$","strong",null,{"children":"SYNCHRONIZED"}]]}]]}],["$","style",null,{"children":"$14"}]]}],"$L15"]}]
+9:["$","$L5",null,{"delay":0.1,"children":["$","section",null,{"id":"overview","style":{"width":"min(1120px, calc(100% - 40px))","margin":"0 auto","padding":"96px 0","scrollMarginTop":100},"children":[["$","div",null,{"style":{"color":"#dc2626","fontSize":12,"fontWeight":900,"letterSpacing":3,"textTransform":"uppercase"},"children":"Product Overview"}],["$","h2",null,{"style":{"margin":"12px 0 0","maxWidth":850,"color":"#ffffff","fontSize":"clamp(38px, 6vw, 68px)","lineHeight":1.02},"children":["What is ","PULSE","?"]}],["$","p",null,{"style":{"margin":"28px 0 0","maxWidth":900,"color":"#bdc7d6","fontSize":"clamp(19px, 2.2vw, 26px)","lineHeight":1.65},"children":"PULSE is an AURIS Medical concept being developed as part of our mission to create technology that helps people through thoughtful, connected, and intelligent systems."}]]}]}]
+a:["$","$L5",null,{"delay":0.2,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","padding":"90px 0"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontSize":10,"fontWeight":900,"letterSpacing":3,"marginBottom":12},"children":["AURIS /"," ","MEDICAL"]}],["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":20},"children":"The Challenge"}],["$","p",null,{"style":{"color":"#cbd5e1","fontSize":20,"lineHeight":1.8,"maxWidth":900},"children":"PULSE is being explored to address real-world challenges within ai healthcare & clinical intelligence and provide users with a clearer, safer, or more efficient experience."}]]}]}]
+b:["$","$L5",null,{"delay":0.3,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","paddingBottom":90},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":20},"children":"Our Solution"}],["$","p",null,{"style":{"color":"#cbd5e1","fontSize":20,"lineHeight":1.8,"maxWidth":900},"children":"AURIS is designing PULSE as a modular technology solution that can grow through research, prototyping, user feedback, and future integrations across the AURIS ecosystem."}]]}]}]
+c:["$","$L5",null,{"delay":0.4,"children":["$","section",null,{"style":{"width":"min(1200px, calc(100% - 40px))","margin":"0 auto","paddingBottom":100},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":32},"children":"Capabilities"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fit, minmax(260px, 1fr))","gap":24},"children":[["$","div","Human-Centered Design",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Human-Centered Design"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Designed around practical user needs, accessibility, clarity, and ease of use."}]]}],["$","div","Connected Intelligence",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Connected Intelligence"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Planned to connect with related AURIS products, services, data, and intelligent systems."}]]}],["$","div","Scalable Architecture",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Scalable Architecture"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Structured to evolve from an early concept into a larger and more capable technology platform."}]]}],["$","div","Future Integrations",{"style":{"padding":28,"borderRadius":22,"border":"1px solid #dc262655","background":"#dc262612","backdropFilter":"blur(10px)","boxShadow":"0 0 28px #dc26260D"},"children":[["$","h3",null,{"style":{"color":"#ffffff","marginBottom":14},"children":"Future Integrations"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.7,"margin":0},"children":"Designed with room for APIs, sensors, analytics, automation, AI, and connected-device support."}]]}]]}]]}]}]
+d:["$","$L5",null,{"delay":0.5,"children":["$","section",null,{"style":{"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","paddingBottom":80},"children":[["$","h2",null,{"style":{"color":"#dc2626","fontSize":34,"marginBottom":36},"children":"Roadmap"}],["$","div",null,{"style":{"display":"grid","gap":24},"children":[["$","div","Phase 01-Concept Definition",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 01"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Concept Definition"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Define the users, purpose, core problem, requirements, and initial product experience."}]]}],["$","div","Phase 02-Prototype Development",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 02"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Prototype Development"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Build and evaluate an interactive software, hardware, or connected-system prototype."}]]}],["$","div","Phase 03-Testing and Expansion",{"style":{"padding":28,"borderLeft":"5px solid #dc2626","border":"1px solid #dc262622","borderLeftWidth":5,"borderLeftColor":"#dc2626","background":"rgba(255, 255, 255, 0.03)","borderRadius":16,"backdropFilter":"blur(10px)"},"children":[["$","div",null,{"style":{"color":"#dc2626","fontWeight":900,"letterSpacing":2,"marginBottom":8},"children":"Phase 03"}],["$","h3",null,{"style":{"color":"#ffffff","marginTop":0},"children":"Testing and Expansion"}],["$","p",null,{"style":{"color":"#cbd5e1","lineHeight":1.8,"marginBottom":0},"children":"Gather feedback, improve the design, add integrations, and prepare the concept for future development."}]]}]]}]]}]}]
+e:["$","$L5",null,{"delay":0.6,"children":["$","section",null,{"style":{"position":"relative","zIndex":20,"width":"min(1100px, calc(100% - 40px))","margin":"0 auto","padding":"20px 0 120px"},"children":["$","div",null,{"style":{"padding":"34px 28px","borderRadius":24,"border":"1px solid rgba(103, 232, 249, 0.16)","background":"linear-gradient(135deg, rgba(8,145,178,0.08), rgba(15,23,42,0.72))","backdropFilter":"blur(16px)","boxShadow":"0 0 50px rgba(34,211,238,0.06)","textAlign":"center"},"children":[["$","div",null,{"style":{"color":"#67e8f9","fontSize":10,"fontWeight":900,"letterSpacing":3.2,"marginBottom":12},"children":"POWERED BY AURA"}],["$","h2",null,{"style":{"margin":"0 0 12px","color":"#ffffff","fontSize":28},"children":"Part of the AURIS Ecosystem"}],["$","p",null,{"style":{"maxWidth":700,"margin":"0 auto 24px","color":"#94a3b8","lineHeight":1.7},"children":"AURA is the ambient, context-aware intelligence layer connecting experiences across the AURIS ecosystem."}],["$","$L2",null,{"href":"/?division=medical","style":{"display":"inline-flex","alignItems":"center","justifyContent":"center","gap":10,"padding":"12px 22px","borderRadius":999,"border":"1px solid #dc262666","background":"#dc262614","color":"#ffffff","textDecoration":"none","fontSize":12,"fontWeight":900,"letterSpacing":1.2,"boxShadow":"0 0 24px #dc262618"},"children":["← Explore"," ","Medical"," ","Products"]}]]}]}]}]
+f:["$","footer",null,{"style":{"borderTop":"1px solid rgba(148,163,184,.18)","background":"#020617","color":"#cbd5e1","padding":"34px clamp(20px, 5vw, 72px)"},"children":["$","div",null,{"style":{"width":"100%","maxWidth":1240,"margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","gap":24,"flexWrap":"wrap"},"children":[["$","div",null,{"children":[["$","div",null,{"style":{"color":"#ffffff","fontWeight":950,"fontSize":16},"children":"AURIS Technologies LLC"}],["$","div",null,{"style":{"marginTop":6,"color":"#94a3b8","fontSize":13},"children":"Technology Built to Help People"}],["$","div",null,{"style":{"marginTop":10,"color":"#64748b","fontSize":12},"children":["© ",2026," AURIS Technologies LLC. All rights reserved."]}]]}],["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":18,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","style":{"color":"#94a3b8","textDecoration":"none","fontSize":13,"fontWeight":800},"children":"Ecosystem"}],["$","$L2",null,{"href":"/about","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"About"}],["$","$L2",null,{"href":"/portfolio","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"Portfolio"}],["$","$L2",null,{"href":"/contact","style":"$f:props:children:props:children:1:props:children:0:props:style","children":"Contact"}]]}]]}]}]
+10:["$","script","script-0",{"src":"/_next/static/chunks/19ihl6vq1sjee.js","async":true}]
+11:["$","script","script-1",{"src":"/_next/static/chunks/0xwfhmjwvuq5y.js","async":true}]
+12:["$","script","script-2",{"src":"/_next/static/chunks/16oo40k_uiou7.js","async":true}]
+13:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+15:["$","div",null,{"style":{"position":"absolute","inset":0,"pointerEvents":"none","background":"linear-gradient(to top, rgba(2,6,23,.72), transparent 48%)"}}]
+18:null
